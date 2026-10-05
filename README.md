@@ -6,7 +6,7 @@ This project analyzes pizza sales data to evaluate overall business performance,
 
 ## Interactive Dashboard
 
-![Pizza Sales Interactive Dashboard](Pizza%20Sales%20Interactive%20Dashboard.gif)
+![Pizza Sales Interactive Dashboard](Pizza%20Sales%20Analysis/Interactive%20Dashboard/Pizza%20Sales%20Interactive%20Dashboard.gif)
 
 The interactive Power BI dashboard brings the analysis together through KPI cards, trend charts, category and size breakdowns, and best- and worst-selling pizza visualizations.
 
