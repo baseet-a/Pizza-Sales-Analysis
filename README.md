@@ -5,7 +5,7 @@
 This project analyzes pizza sales data to evaluate overall business performance, understand sales and ordering patterns, and identify differences in product demand. Calculated key performance indicators and examined sales across different days, hours, pizza categories, pizza sizes, and individual products. Using **MySQL** for data preparation and analysis and **Power BI** for interactive visualization.
 
 ## Interactive Dashboard
-![Pizza Sales Interactive Dashboard](Pizza%20Sales%20Analysis/Interactive%20Dashboard/ScreenRecording2026-10-02233047-ezgif.com-video-to-gif-converter.gif)
+![Pizza Sales Interactive Dashboard](Pizza%20Sales%20Analysis/Interactive%20Dashboard.gif)
 
 The interactive Power BI dashboard brings the analysis together through KPI cards, trend charts, category and size breakdowns, and best- and worst-selling pizza visualizations.
 
